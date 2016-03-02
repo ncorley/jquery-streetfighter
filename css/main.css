@@ -71,4 +71,8 @@ body {
   top: 160px;
 }
 
+*:focus {
+    outline: none;
+}
+
 
