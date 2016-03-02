@@ -31,6 +31,7 @@ $(document).ready(function() {
         if (event.which == 88) {
         $(".ryu-still").hide();
         $(".ryu-ready").hide();
+        $("ryu-throwing").hide();
         $(".ryu-cool").show();
     };
 	})

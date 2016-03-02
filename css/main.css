@@ -75,4 +75,24 @@ body {
     outline: none;
 }
 
+.instructions {
+	padding-right: 125px;
+}
 
+.instructions h1 {
+	font-family: "Rubik", sans-serif;
+	font-weight: 900;
+	font-style: italic;
+}
+
+.instructions p {
+	font-family: "Rubik", sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.instructions h5 {
+	font-family: "Rubik", sans-serif;
+	font-weight: 100;
+	font-style: italic;
+}
