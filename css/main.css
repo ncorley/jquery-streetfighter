@@ -71,10 +71,6 @@ body {
   top: 160px;
 }
 
-*:focus {
-    outline: none;
-}
-
 .instructions {
 	padding-right: 125px;
 }
